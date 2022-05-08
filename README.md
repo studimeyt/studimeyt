@@ -1,4 +1,4 @@
-### Hi there 👋,Myself Harshit Srivastava
+### Hello there 👋,I am Harshit Srivastava
 #### Aspiring Android app /Game developer
 I'm Harshit Srivastava, Undergrad at Manipal University Jaipur. Aspiring to become an Android app developer/Game developer. I like working on real-life problems and trying to solve them using mobile applications. I have a good understanding of game development and the app development part is under progress. I have also enjoy exploring other domains like 3D modeling, ML and WebDev.
 <br/>
