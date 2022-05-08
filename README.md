@@ -12,5 +12,5 @@ I'm Harshit Srivastava, Undergrad at Manipal University Jaipur. Aspiring to beco
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=studimeyt&theme=midnight-purple&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/studimeyt)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/studimeyt) --!>  
 
