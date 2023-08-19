@@ -5,12 +5,10 @@ I'm Harshit Srivastava, Undergrad at Manipal University Jaipur. Aspiring to beco
 **Skills : JS / HTML / CSS / Python / C / C++ / C# / Kotlin / Blender / Unity**
 
 - 🔭 I’m currently working on Mobile Applications 
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently improving my python skills
+- ⌛ I'm improving my overall coding skills
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/studimeyt)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=studimeyt&theme=midnight-purple&show_icons=true)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/studimeyt) --!>  
 
